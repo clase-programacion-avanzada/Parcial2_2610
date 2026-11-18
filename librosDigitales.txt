@@ -1,0 +1,2 @@
+=== REPORTE DE LIBROS DIGITALES ===
+Código: 1 | Título: Clean Code | Precio Base: 100.00 | Descuento: 10.00
